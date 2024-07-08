@@ -1,10 +1,10 @@
-import Navbar from './components/Navbar';
+import NavigationBar from './components/Navbar';
 import './App.css';
 
 const App = () => {
   return (
     <>
-      <Navbar />
+      <NavigationBar />
       <h1>Voluntarios</h1>
     </>
   );
